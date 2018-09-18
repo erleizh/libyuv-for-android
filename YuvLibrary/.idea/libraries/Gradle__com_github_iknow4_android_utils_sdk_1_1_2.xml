@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.iknow4:android-utils-sdk-1.1.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/android-utils-sdk-1.1.2.aar/fc192a9c8d7fcf74031ababfd05abbe1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/android-utils-sdk-1.1.2.aar/fc192a9c8d7fcf74031ababfd05abbe1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/com.github.iknow4/android-utils-sdk/1.1.2/304414a276bb977650c68f1a3f1d26a2ec655eb1/android-utils-sdk-1.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

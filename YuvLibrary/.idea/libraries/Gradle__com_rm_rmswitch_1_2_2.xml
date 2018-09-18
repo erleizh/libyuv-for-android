@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rm:rmswitch-1.2.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/rmswitch-1.2.2.aar/d6038f25de5beb999c437ed1d8b69b57/res" />
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/rmswitch-1.2.2.aar/d6038f25de5beb999c437ed1d8b69b57/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/com.rm/rmswitch/1.2.2/8b188f869676924f856ee09a173a177bb41a0dc1/rmswitch-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

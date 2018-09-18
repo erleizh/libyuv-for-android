@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yanzhenjie:statusview-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/statusview-1.0.3.aar/25dc8b45ebbb8109c78961dc21188231/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/statusview-1.0.3.aar/25dc8b45ebbb8109c78961dc21188231/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/com.yanzhenjie/statusview/1.0.3/985b9cc686908ebe487474e3fbfa7cec42b5b82c/statusview-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DanmakuLibrary/DanmakuLibrary.iml" filepath="$PROJECT_DIR$/../DanmakuLibrary/DanmakuLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Gmu-Android.iml" filepath="$PROJECT_DIR$/../Gmu-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PushSDK/PushSDK.iml" filepath="$PROJECT_DIR$/../PushSDK/PushSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ScreenSupportLib/ScreenSupportLib.iml" filepath="$PROJECT_DIR$/../ScreenSupportLib/ScreenSupportLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VideoPlayer/VideoPlayer.iml" filepath="$PROJECT_DIR$/../VideoPlayer/VideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../VideoRecordLibrary/VideoRecordLibrary.iml" filepath="$PROJECT_DIR$/../VideoRecordLibrary/VideoRecordLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YuvLibrary.iml" filepath="$PROJECT_DIR$/YuvLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../album/album.iml" filepath="$PROJECT_DIR$/../album/album.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chat/chat.iml" filepath="$PROJECT_DIR$/../chat/chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dev/dev.iml" filepath="$PROJECT_DIR$/../dev/dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gallerypick/gallerypick.iml" filepath="$PROJECT_DIR$/../gallerypick/gallerypick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gpuimage/gpuimage.iml" filepath="$PROJECT_DIR$/../gpuimage/gpuimage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../keyboard/keyboard.iml" filepath="$PROJECT_DIR$/../keyboard/keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sharelib/sharelib.iml" filepath="$PROJECT_DIR$/../sharelib/sharelib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../shumeisdk/shumeisdk.iml" filepath="$PROJECT_DIR$/../shumeisdk/shumeisdk.iml" />
+    </modules>
+  </component>
+</project>

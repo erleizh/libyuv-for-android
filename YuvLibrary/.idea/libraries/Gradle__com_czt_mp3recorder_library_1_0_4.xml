@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.czt.mp3recorder:library-1.0.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/library-1.0.4.aar/a2345fe30bcd1c2c7de3f02c2b514e7f/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/library-1.0.4.aar/a2345fe30bcd1c2c7de3f02c2b514e7f/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/com.czt.mp3recorder/library/1.0.4/bac30b7531b343f9ea75ed33b441c871132768a0/library-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

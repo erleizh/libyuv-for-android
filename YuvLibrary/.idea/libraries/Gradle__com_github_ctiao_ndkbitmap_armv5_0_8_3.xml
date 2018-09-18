@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.ctiao:ndkbitmap-armv5-0.8.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/ndkbitmap-armv5-0.8.3.aar/ce6d371787f782b453a0717696d0b856/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/ndkbitmap-armv5-0.8.3.aar/ce6d371787f782b453a0717696d0b856/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/com.github.ctiao/ndkbitmap-armv5/0.8.3/95c51579ca2f27462eb89289791c33521968f70/ndkbitmap-armv5-0.8.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

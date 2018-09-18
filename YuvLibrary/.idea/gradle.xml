@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../DanmakuLibrary" />
+            <option value="$PROJECT_DIR$/../PushSDK" />
+            <option value="$PROJECT_DIR$/../ScreenSupportLib" />
+            <option value="$PROJECT_DIR$/../VideoPlayer" />
+            <option value="$PROJECT_DIR$/../VideoRecordLibrary" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../album" />
+            <option value="$PROJECT_DIR$/../app" />
+            <option value="$PROJECT_DIR$/../chat" />
+            <option value="$PROJECT_DIR$/../dev" />
+            <option value="$PROJECT_DIR$/../gallerypick" />
+            <option value="$PROJECT_DIR$/../gpuimage" />
+            <option value="$PROJECT_DIR$/../keyboard" />
+            <option value="$PROJECT_DIR$/../sharelib" />
+            <option value="$PROJECT_DIR$/../shumeisdk" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

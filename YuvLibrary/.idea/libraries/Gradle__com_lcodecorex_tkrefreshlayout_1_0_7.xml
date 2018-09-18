@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lcodecorex:tkrefreshlayout-1.0.7">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/tkrefreshlayout-1.0.7.aar/5181b8135ae98084c012dea79b3b63e8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/tkrefreshlayout-1.0.7.aar/5181b8135ae98084c012dea79b3b63e8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/com.lcodecorex/tkrefreshlayout/1.0.7/83465fd76b6b84598c9a9f5255228750df6a50ec/tkrefreshlayout-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

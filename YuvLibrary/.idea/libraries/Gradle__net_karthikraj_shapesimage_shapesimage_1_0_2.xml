@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.karthikraj.shapesimage:shapesimage-1.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/shapesimage-1.0.2.aar/5af3344bc0516b9c65566a84f1b9704a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/shapesimage-1.0.2.aar/5af3344bc0516b9c65566a84f1b9704a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/net.karthikraj.shapesimage/shapesimage/1.0.2/94dee9e13081df43fd3809d1ec7b2db962b3ed7b/shapesimage-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

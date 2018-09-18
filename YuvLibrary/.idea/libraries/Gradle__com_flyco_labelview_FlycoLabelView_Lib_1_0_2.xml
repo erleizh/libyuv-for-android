@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.flyco.labelview:FlycoLabelView_Lib-1.0.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/FlycoLabelView_Lib-1.0.2.aar/64ee7a4c0356afce415fc93a7ccc9255/res" />
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/FlycoLabelView_Lib-1.0.2.aar/64ee7a4c0356afce415fc93a7ccc9255/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/com.flyco.labelview/FlycoLabelView_Lib/1.0.2/cf9716d1e2dfb9e2a39723ddbb735255290d66fe/FlycoLabelView_Lib-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

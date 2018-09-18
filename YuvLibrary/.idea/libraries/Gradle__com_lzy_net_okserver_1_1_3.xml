@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lzy.net:okserver-1.1.3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/okserver-1.1.3.aar/74b7e4e2528a47b2e7e0fcad43ae1b8b/res" />
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/transforms-1/files-1.1/okserver-1.1.3.aar/74b7e4e2528a47b2e7e0fcad43ae1b8b/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../gradle/caches/modules-2/files-2.1/com.lzy.net/okserver/1.1.3/bad9ac00bed49d0837c2072b3b3de62b0efcbbc4/okserver-1.1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
